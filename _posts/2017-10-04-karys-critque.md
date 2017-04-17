@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Snowden Files Decoded Critiquw"
+date:   2017-10-04
+author: Karys Belger
+image:
+image_credit:
+---
+
+One of the best examples of data journalism I have seen was the [The Gaurdian’s](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1) 2013 breakdown of the documents that were taken and then leaked by Edward Snowden from the National Security Administration. The piece breaks down a little bit of what was in the documents, who all was involved, and how it affects the American public in a way that makes it easy to understand. If you’re a person who, like myself at the time, isn’t familiar with many government agencies and is only slightly aware of why this might be important to me. The piece wasn’t too text heavy, but the visual graphs and moving interviews throughout make the content more engaging. The overall presentation helped make the content engaging without to much of the dense content and vocabulary that might turn off the average reader.
+
+What makes this piece work well is that almost all the information is in one place and is readily available. Starting with what happened and when with Snowden obtaining the documents and then deciding to release them. Then we have videos with experts and government officials explaining The Constitution, the specific rights to citizens in reference to information gathering by the government. What’s particularly helpful is the graphic allowing the reader to scroll over a horizontal list of the major people involved and what specific part they played in the aftermath of Snowden releasing the documents he obtained. This helps, especially in the overload of information that was readily available at the time and is still available when people talk about cyber security and the right people have to information now.
+
+The one thing that doesn’t necessarily work are the embedded documents in the actual piece. It’s nice to be able to easily get to the documents that are being referenced, but considering how much reading is already contained in just the body of the article itself, I felt that the actual files being embedded was overkill. I think the point of this piece was to make it easy for any reader to understand, however, the files contain a lot of government jargon that might be too dense for the average reader who may or may not know too much about what makes the documents Snowden leaked valuable or not. Also, most of the actual data isn’t presented until almost the middle of the article. Before that, it’s mostly opinions. While the average reader might not have any problems with this, I do think it might give people the writing idea about what they are reading if they are instantly presented with varied opinions, even if it is with “experts”.

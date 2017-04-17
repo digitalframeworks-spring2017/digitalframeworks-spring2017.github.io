@@ -32,9 +32,12 @@ Fork the class repository, add a post to your copy of the repo, and use it to wr
 
 For your critique:
 
-* Screenshot the piece in question and make sure it is referenced in your post's front matter.
+* ~~Screenshot the piece in question and make sure it is referenced in your post's front matter.~~
+* Pick a piece of data journalism and talk about what works and what doesn't about it. Who is the intended audience? Is it clear? Are there things missing you'd like to see?
 * Link to the piece in question in your post.
 * Write at least 3 paragraphs.
+
+This critique is mostly so that you can get some practice with the mechanics of post creation. It has a secondary goal of letting me know where you're at when it comes to thinking about data journalism.
 
 # Lesson
 
