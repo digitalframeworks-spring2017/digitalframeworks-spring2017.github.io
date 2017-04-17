@@ -9,7 +9,7 @@ author: Alexis Wainwright
 
 The Census Bureau released new data from its 2015 &2016 nationwide population survey. The graph is data collected from the 2016 data and the rankings are still close in numbers based off this year’s employment and unemployment rates.
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1zrY0_k7hGFpbno1utW6OXEU4PfGNUzndH4hVwUZgPGY/pubchart?oid=15138478&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1zrY0_k7hGFpbno1utW6OXEU4PfGNUzndH4hVwUZgPGY/pubchart?oid=15138478&amp;format=image"></iframe>
 
 High-income states typically share certain social and economic characteristics. In 17 of the states that rank higher than average household incomes, college attainment rates also exceed the national attainment rate.
 
